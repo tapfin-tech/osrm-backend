@@ -26,7 +26,7 @@ function setup()
       u_turn_penalty                 = 20,
       continue_straight_at_waypoint  = true,
       use_turn_restrictions          = true,
-      left_hand_driving              = false,
+      left_hand_driving              = true,
       traffic_light_penalty          = 2,
     },
 
